@@ -1,0 +1,14 @@
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Form1.resources
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
