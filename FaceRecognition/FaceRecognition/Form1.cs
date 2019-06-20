@@ -32,7 +32,7 @@ namespace FaceRecognition
         private void Button2_Click(object sender, EventArgs e)
         {
             count = count + 1;
-            grayFace = camera.QueryGrayFrame().Resize(320.240, Emgu.CV.CvEnum.INTER.CV_INTER_CUBIC);
+            grayFace = camera.QueryGrayFrame().Resize(320,240, Emgu.CV.CvEnum.INTER.CV_INTER_CUBIC);
             MCvAvgComp[][] detectedFace = grayFace.DetectHaarCascade(faceDetected, 1.2, 10, Emgu.CV.CvEnum.HAAR_DETECTION_TYPE.DO_CANNY_PRUNING, new Size(20, 20)); 
             foreach (MCvAvgComp f in detectedFace[0])
             {
@@ -98,9 +98,9 @@ namespace FaceRecognition
                     name = recognizer.Recognize(result);
                     Frame.Draw(name, ref font, new Point(f.rect.X - 2, f.rect.Y - 2), new Bgr(Color.Red));
                 }
-                
+                Users.Add("");
             }
-            Users.Add("");
+            imageBox1.Image = Frame;
             names = "";
             Users.Clear();
         }
