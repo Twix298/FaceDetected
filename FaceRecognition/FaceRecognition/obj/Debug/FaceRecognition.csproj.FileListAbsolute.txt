@@ -12,3 +12,5 @@ C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.C
 C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
 C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
 C:\vs_project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\FaceDatabase.mdf
+C:\vs_project\FaceRecognition\FaceRecognition\bin\Debug\FaceDatabase_log.ldf
